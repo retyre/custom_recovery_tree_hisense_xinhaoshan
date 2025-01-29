@@ -10,5 +10,4 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     omni_hisense_us-user \
-    omni_hisense_us-userdebug \
-    omni_hisense_us-eng
+    omni_hisense_us-userdebug
