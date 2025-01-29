@@ -7,4 +7,3 @@
 
 add_lunch_combo omni_hisense_us-user
 add_lunch_combo omni_hisense_us-userdebug
-add_lunch_combo omni_hisense_us-eng
