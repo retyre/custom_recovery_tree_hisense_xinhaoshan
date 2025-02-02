@@ -1,4 +1,4 @@
-# Android device tree for Hisense HiSmart 4K ATV4 (hisense_us)
+# Android device tree for Hisense HiSmart 4K ATV4 (xinhaoshan)
 
 ```
 #
