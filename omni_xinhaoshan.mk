@@ -11,11 +11,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-# Inherit from hisense_us device
-$(call inherit-product, device/hisense/hisense_us/device.mk)
+# Inherit from xinhaoshan device
+$(call inherit-product, device/hisense/xinhaoshan/device.mk)
 
-PRODUCT_DEVICE := hisense_us
-PRODUCT_NAME := omni_hisense_us
+PRODUCT_DEVICE := xinhaoshan
+PRODUCT_NAME := omni_xinhaoshan
 PRODUCT_BRAND := Hisense
 PRODUCT_MODEL := HiSmart 4K ATV4
 PRODUCT_MANUFACTURER := hisense
