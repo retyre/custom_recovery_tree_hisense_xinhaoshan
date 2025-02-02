@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=hisense_us
+DEVICE=xinhaoshan
 VENDOR=hisense
 
 # Load extract_utils and do some sanity checks
