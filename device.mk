@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/hisense/hisense_us
+LOCAL_PATH := device/hisense/xinhaoshan
