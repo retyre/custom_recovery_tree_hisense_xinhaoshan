@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_hisense_us-user
-add_lunch_combo omni_hisense_us-userdebug
-add_lunch_combo omni_hisense_us-eng
+add_lunch_combo omni_xinhaoshan-user
+add_lunch_combo omni_xinhaoshan-userdebug
+add_lunch_combo omni_xinhaoshan-eng
