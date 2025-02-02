@@ -7,6 +7,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),hisense_us)
+ifeq ($(TARGET_DEVICE),xinhaoshan)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 endif
