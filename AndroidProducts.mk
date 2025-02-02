@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_hisense_us.mk
+    $(LOCAL_DIR)/omni_xinhaoshan.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_hisense_us-user \
-    omni_hisense_us-userdebug \
-    omni_hisense_us-eng
+    omni_xinhaoshan-user \
+    omni_xinhaoshan-userdebug \
+    omni_xinhaoshan-eng
